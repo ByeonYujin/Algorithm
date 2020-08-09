@@ -4,7 +4,7 @@ Algorithm practice for coading test and so on
 
 with
 
-- Language : 
+- Language  
   - Python 3 (2020.08 now)
   
 - Website
