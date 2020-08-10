@@ -9,7 +9,7 @@ with
   
 - Website
   - CodeUp (https://codeup.kr/index.php)
-  - CodeSignal (https://codesignal.com/)
+  - CodeSignal (https://app.codesignal.com/)
 
 < Study >
 
