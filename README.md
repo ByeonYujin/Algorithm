@@ -10,3 +10,11 @@ with
 - Website
   - CodeUp (https://codeup.kr/index.php)
   - CodeSignal (https://codesignal.com/)
+
+
+
+20.08.09
+CodeUp 1001 ~ 1030
+
+20.08.10
+CodeUp 1031 ~ 1040
