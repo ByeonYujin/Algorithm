@@ -18,4 +18,4 @@ with
 
 - 20.08.10
 	- CodeUp / 1031 ~ 1040
-	- CodeSignal / centurlFromYear
+	- CodeSignal / centurlFromYear, checkPalindrome
