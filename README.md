@@ -11,11 +11,15 @@ with
   - CodeUp (https://codeup.kr/index.php)
   - CodeSignal (https://app.codesignal.com/)
 
-< Study >
+# 
 
 - 20.08.09
 	- CodeUp / 1001 ~ 1030
 
 - 20.08.10
 	- CodeUp / 1031 ~ 1040
-	- CodeSignal / centurlFromYear, checkPalindrome
+	- CodeSignal / centuryFromYear, checkPalindrome
+
+- 20.08.11
+	- CodeUp / 1040 ~ 1060
+	- CodeSignal / adjacentElementsProduct, shapeArea
