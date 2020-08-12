@@ -23,3 +23,6 @@ with
 - 20.08.11
 	- CodeUp / 1040 ~ 1060
 	- CodeSignal / adjacentElementsProduct, shapeArea
+
+- 20.08.12
+	- CodeUp / 1061 ~ 1070
