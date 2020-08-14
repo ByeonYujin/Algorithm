@@ -1,6 +1,6 @@
 # Algorithm Practice
 
-Algorithm practice for coading test and so on
+Algorithm practice for coding test and so on
 
 with
 
@@ -26,3 +26,6 @@ with
 
 - 20.08.12
 	- CodeUp / 1061 ~ 1070
+	
+- 20.08.13
+	- CodeUp / 1071 ~ 1080
