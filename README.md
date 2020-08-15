@@ -11,7 +11,7 @@ with
   - CodeUp (https://codeup.kr/index.php)
   - CodeSignal (https://app.codesignal.com/)
 
-# 
+# Diary
 
 - 20.08.09
 	- CodeUp / 1001 ~ 1030
@@ -32,3 +32,7 @@ with
 
 - 20.08.14
 	- CodeUp / 1081 ~ 1090
+	
+- 20.08.15
+	- CodeUp / 1091 ~ 1096
+	- CodeSignal / makeArrayConsecutive2
