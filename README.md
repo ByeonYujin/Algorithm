@@ -7,9 +7,10 @@ with
 - Language  
   - Python 3 (2020.08 now)
   
-- Website
-  - CodeUp (https://codeup.kr/index.php)
-  - CodeSignal (https://app.codesignal.com/)
+- Web Site
+  - [CodeUp](https://codeup.kr/index.php)
+  - [CodeSignal](https://app.codesignal.com/)
+  - [BOJ](https://www.acmicpc.net/)
 
 # Weekly
 
@@ -18,3 +19,11 @@ with
 	: 1001 ~ 1098
 	- CodeSignal 
 	: centuryFromYear, checkPalindrome, adjacentElementsProduct, shapeArea, makeArrayConsecutive2
+
+- 20.08.17 ~ 20.08.23
+	- CodeUp 
+	: 1099, 1110, 3301, 2001
+	- CodeSignal 
+	: almostIncreasingSequence
+	- BOJ
+	: 5585, 11399
