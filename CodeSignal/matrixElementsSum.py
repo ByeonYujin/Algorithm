@@ -9,4 +9,5 @@ def matrixElementsSum(matrix):
             else:
                 continue
             preRow[j] = matrix[i][j]
+            
     return result
