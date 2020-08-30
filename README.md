@@ -27,3 +27,9 @@ with
 	: almostIncreasingSequence
 	- BOJ
 	: 5585, 11399
+
+- 20.08.24 ~ 20.08.30
+	- CodeSignal 
+	: matrixElementsSum, AllLongestStrings, commonCharacterCount
+	- BOJ
+	: 10162, 11047
