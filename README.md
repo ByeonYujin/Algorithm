@@ -33,3 +33,11 @@ with
 	: matrixElementsSum, AllLongestStrings, commonCharacterCount
 	- BOJ
 	: 10162, 11047
+	
+- 20.08.31 ~ 20.09.06
+	- CodeUp 
+	: 4876, 4861
+	- CodeSignal 
+	: isLucky, sortByHeight
+	- BOJ
+	: 1157
