@@ -5,7 +5,7 @@ Algorithm practice for coding test and so on
 with
 
 - Language  
-  - Python 3 (2020.08 now)
+  - Python, MySQL
   
 - Web Site
   - [CodeUp](https://codeup.kr/index.php)
@@ -41,3 +41,10 @@ with
 	: isLucky, sortByHeight
 	- BOJ
 	: 1157
+	
+- 20.09.07 ~ 20.09.13
+	- CodeUp 
+	: 2650
+	- CodeSignal 
+	: holidayEvent, projectList, countriesSelection, monthlyScholarships, projectsTeam
+	
