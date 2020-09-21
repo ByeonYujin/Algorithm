@@ -48,3 +48,6 @@ with
 	- CodeSignal 
 	: holidayEvent, projectList, countriesSelection, monthlyScholarships, projectsTeam
 	
+- 20.09.14 ~ 20.09.20
+	- CodeSignal 
+	: automaticNotifications, volleyballResults, mostExpensive, sunnyHolidays, contestLeaderboard 
