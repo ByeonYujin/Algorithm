@@ -51,3 +51,7 @@ with
 - 20.09.14 ~ 20.09.20
 	- CodeSignal 
 	: automaticNotifications, volleyballResults, mostExpensive, sunnyHolidays, contestLeaderboard 
+	
+- 20.09.21 ~ 20.09.27
+	- CodeSignal 
+	: gradeDistribution, mischievousNephews, suspectInvestigation
