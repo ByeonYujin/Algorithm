@@ -8,3 +8,9 @@ CREATE PROCEDURE testCheck()
     AS checks
     FROM answers
     ORDER BY id;
+    
+-- use the IF statement
+
+    SELECT id, IF ( given_answer IS NULL, 'no answer', IF ( given_answer = correct_answer, 'correct', 'incorrect')) AS checks
+    FROM answers
+    ORDER BY id;
