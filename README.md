@@ -1,6 +1,6 @@
-# Algorithm Practice
+# Algorithm & SQL Practice
 
-Algorithm practice for coding test and so on
+Solving Algorithm & SQL problems 
 
 with
 
@@ -55,3 +55,7 @@ with
 - 20.09.21 ~ 20.09.27
 	- CodeSignal 
 	: gradeDistribution, mischievousNephews, suspectInvestigation
+
+- 20.09.28 ~ 20.10.04 
+	- CodeSignal 
+	: suspectsInvestigation2, securityBreach, testCheck, expressionsVerification, newsSubscribers
