@@ -59,3 +59,7 @@ with
 - 20.09.28 ~ 20.10.04 
 	- CodeSignal 
 	: suspectsInvestigation2, securityBreach, testCheck, expressionsVerification, newsSubscribers
+	
+- 20.10.05 ~ 20.10.11 
+	- CodeSignal 
+	: countriesInfo, itemCounts, usersByContinent, movieDirector, travelDiary
